@@ -1,0 +1,3 @@
+C:/Users/black/CLionProjects/Assingment1_AddressBook/cmake-build-debug/CMakeFiles/Assingment1_AddressBook.dir
+C:/Users/black/CLionProjects/Assingment1_AddressBook/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/black/CLionProjects/Assingment1_AddressBook/cmake-build-debug/CMakeFiles/rebuild_cache.dir
