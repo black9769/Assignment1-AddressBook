@@ -1,0 +1,14 @@
+//
+// Created by black on 2024-01-20.
+//
+
+#ifndef ASSINGMENT1_ADDRESSBOOK_LINKEDLIST_H
+#define ASSINGMENT1_ADDRESSBOOK_LINKEDLIST_H
+
+
+class LinkedList {
+
+};
+
+
+#endif //ASSINGMENT1_ADDRESSBOOK_LINKEDLIST_H
